@@ -2,7 +2,6 @@
 - 👀 I’m interested in db, C++, Rust
 - 🌱 I’m currently learning AI-Native DB, Rust
 - 📫 How to reach me zjbpaul1317@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Life is beautiful!
 
 <!---
