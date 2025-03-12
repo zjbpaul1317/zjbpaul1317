@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zjb
-- 👀 I’m interested in db, C++, Rust
-- 🌱 I’m currently learning AI-Native DB, Rust
+- 👀 I’m interested in Go, C++, Rust
+- 🌱 I’m currently learning AI-Native DB, Rust, rdma
 - 📫 How to reach me zjbpaul1317@gmail.com
 - ⚡ Fun fact: Life is beautiful!
 
